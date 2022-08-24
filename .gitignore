@@ -6,6 +6,7 @@
 
 # Data
 notebooks/molecules*
+notebooks/raw*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
